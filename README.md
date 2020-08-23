@@ -1,8 +1,8 @@
 # PlatIntel Front
 
-Front End Project
+Business Intelligence Tool for detecting Twitter Campaigns. Front End Project
 
-### Prerequisites
+## Prerequisites
 
 Docker
 
@@ -42,7 +42,7 @@ heroku container:release web -a platintel
 
 ## Authors
 
-- **JRC**
+- **https://github.com/jramirezc93/**
 
 ## License
 
